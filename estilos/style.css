@@ -57,3 +57,14 @@ main{
     transform: translate(-3px, -3px);
     transition: .4s, border .5s;
 }
+
+@media (max-width: 600px) {
+    #redes-sociais img{
+        text-align: center;
+        width: 40px;
+    }
+    br {
+      display: none; /* Esconde a quebra de linha */
+    }
+  }
+  
