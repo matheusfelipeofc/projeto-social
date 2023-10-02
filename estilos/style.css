@@ -66,5 +66,16 @@ main{
     br {
       display: none; /* Esconde a quebra de linha */
     }
+    #telefone{
+        height: 527px;
+        width: 211px;
+        background:url('../imagens/Sem\ nome\ \(211\ x\ 527\ px\).png');
+    }
+    #tela{
+        top: 119px;
+        left: 15px;
+        width: 180px;
+        height: 320px;
+    }
   }
   
